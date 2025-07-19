@@ -24,7 +24,6 @@ body {
   margin-bottom: 10px;
 }
 
-/* Przycisk */
 .btn {
   background-color: #ff7a59;
   color: white;
@@ -44,14 +43,12 @@ body {
   padding: 8px 16px;
 }
 
-/* Sekcje */
 section {
   padding: 60px 20px;
   max-width: 1000px;
   margin: 0 auto;
 }
 
-/* Projekty */
 .projects {
   background-color: white;
   padding: 15px;
@@ -73,7 +70,6 @@ section {
   margin-bottom: 10px;
 }
 
-/* Umiejętności */
 .skills ul {
   list-style: none;
   padding: 0;
@@ -91,7 +87,6 @@ section {
   font-weight: 600;
 }
 
-/* Stopka */
 footer {
   background-color: #0a0a23;
   color: white;
